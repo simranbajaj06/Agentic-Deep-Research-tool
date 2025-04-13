@@ -75,7 +75,6 @@ pip install -r requirements.txt
 ```bash
 # Create a .env file with your API keys
 echo "GROQ_API_KEY=your_groq_api_key" > .env
-echo "OPENROUTER_API_KEY=your_openrouter_api_key" >> .env
 ```
 
 ## Usage
