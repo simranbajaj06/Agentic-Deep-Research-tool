@@ -75,6 +75,8 @@ pip install -r requirements.txt
 ```bash
 # Create a .env file with your API keys
 echo "GROQ_API_KEY=your_groq_api_key" > .env
+echo "GOOGLE_API_KEYY=your_google_api_key" > .env
+echo "GOOGLE_CSE_IDY=your_google_cse_id" > .env
 ```
 
 ## Usage
