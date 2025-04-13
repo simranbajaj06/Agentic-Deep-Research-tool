@@ -1,0 +1,6 @@
+pydantic-ai
+beautifulsoup4
+nest_asyncio
+httpx
+python-dotenv
+requests
